@@ -41,6 +41,11 @@ class Staffmem extends CI_Controller {
         $data['active'] = 'profile';
         $this->load->view('Admin_Staff_profile1', $data);
     }
+    
+    
+    
+    
+    
 
     public function add_staff() {
 
