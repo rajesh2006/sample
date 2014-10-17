@@ -12,6 +12,7 @@ class Staffmem extends CI_Controller {
 
     
     public function index() {
+        //added something
         
         
 //        $data['error'] = false;
