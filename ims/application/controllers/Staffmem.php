@@ -10,7 +10,10 @@ class Staffmem extends CI_Controller {
 //        }
     }
 
-    
+    //added 
+    //added something
+    //added something
+    //added something
     public function index() {
         
         
